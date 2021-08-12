@@ -9,4 +9,5 @@ For more on the sphere-overburden solution see:
 Here you will find the following: 
   - A compressed executable file of the sphere overburden program (unzip and run) 
   - The code base used to create the executable 
-  - A python jupyter notebook with brief description and demonstration of program capabilities (open in browser) 
+  - A python jupyter notebook listed below with brief description and demonstration of program capabilities (click to open in browser) \
+  https://mybinder.org/v2/gh/adzamper/sphere_notebook_em/ba58beb05bc1bb8433baec5216e210a3fb0841a5
